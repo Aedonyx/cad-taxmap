@@ -126,7 +126,3 @@ DXF output:     7,047 polylines on layer PARCELS ✓
 - GIS portals that aren't ArcGIS (WFS/GeoServer — Claude will detect this and tell you)
 - Servers that require authentication/login (Claude will tell you)
 - Servers that don't support pagination (Claude will tell you how many parcels it got vs. expected)
-
----
-
-Built with Claude · aedonyx.io
